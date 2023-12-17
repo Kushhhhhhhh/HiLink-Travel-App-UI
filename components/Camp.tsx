@@ -54,16 +54,16 @@ const Camp = () => {
          backgroundImage='bg-bg-img-1'
          title='Travel Ease Camp'
          subtitle='Nainital, Bhimtal'
-         peopleJoined='50+  joined'
+         peopleJoined='500+  joined'
          />
          <CampSite 
          backgroundImage='bg-bg-img-2'
          title='Mountain View Camp'
          subtitle='Somewhere in the Wilderness'
-         peopleJoined='50+  joined'/>
+         peopleJoined='200+  joined'/>
        </div>
 
-      <div className="flexEnd mt-10 px-6 lg:mt-60 lg:mr-6">
+      <div className="flexCenter mt-10 px-6 lg:mt-32 lg:mr-6">
         <div className="bg-green-50 p-8 lg:max-w-[500px] xl:max-w-[734px] xl:rounded-5xl xl:px-16 xl:py-20 relative w-full overflow-hidden rounded-3xl">
         <h2 className="regular-24 md:regular-32 2xl:regular-64 capitalize text-white">
           <strong>Feeling lost </strong> and not knowing the way?
