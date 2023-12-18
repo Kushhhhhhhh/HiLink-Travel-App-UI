@@ -35,9 +35,9 @@ const Guide = () => {
           <div className='flex w-full flex-col'>
             <div className='flexBetween w-full'>
               <p className='regualr-16 text-gray-20'>Destination</p>
-              <p className='bold-16 text-green-50'>48 Min</p>
+              <p className='bold-16 text-green-50'>3 hr</p>
             </div>
-            <p className='bold-20 mt-2'>Lucknow</p>
+            <p className='bold-20 mt-2'>Nainital</p>
           </div>
           <div className='flex w-full flex-col'>
             
