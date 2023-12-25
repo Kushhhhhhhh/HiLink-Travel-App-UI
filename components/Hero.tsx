@@ -48,7 +48,7 @@ const Hero = () => {
       </div>
       <div className='relative flex flex-1 items-start'>
 
-  <div className='hidden lg:flex z-20 flex w-[268px] flex-col gap-8 rounded-3xl bg-green-90 px-7 py-8'>
+  <div className='lg:flex z-20 flex w-[268px] flex-col gap-8 rounded-3xl bg-green-90 px-7 py-8'>
   
     <div className='flex flex-col'>
 
