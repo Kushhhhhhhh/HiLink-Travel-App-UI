@@ -31,10 +31,9 @@ Before using the Travel App, ensure that you have:
     An active internet connection.
 
 ## Installation
-
-    Download the app from the Google Play Store or Apple App Store.
-    Install the app on your device.
-
+```
+git clone https://github.com/Kushhhhhhhh/HiLink-Travel-App-UI.git
+```
 ## Usage
 
     Search and Plan Routes: Enter your destination, and the app will provide you with the best routes and estimated distances.
